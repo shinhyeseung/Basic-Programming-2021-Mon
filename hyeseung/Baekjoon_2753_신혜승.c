@@ -6,7 +6,7 @@ int main(void)
 	1 <= year;
 	year <= 4000;
 
-	printf("¿¬µµ ÀÔ·Â : ");
+	printf("ì—°ë„ ìž…ë ¥ : ");
 	scanf_s("%d", &year);
 
 	if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0))
