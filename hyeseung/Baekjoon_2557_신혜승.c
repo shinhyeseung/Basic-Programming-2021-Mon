@@ -1,4 +1,4 @@
-// ¹®Á¦) Hello World!¸¦ Ãâ·ÂÇÏ½Ã¿À.
+// ë¬¸ì œ) Hello World!ë¥¼ ì¶œë ¥í•˜ì‹œì˜¤.
 
 #include <stdio.h>
 
