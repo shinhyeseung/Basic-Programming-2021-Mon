@@ -11,4 +11,5 @@ int main(void)
 		hap = hap + i;
 	
 	printf("%d", hap);
+	
 }
