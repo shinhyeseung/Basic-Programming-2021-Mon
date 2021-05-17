@@ -11,7 +11,6 @@ int main(void)
 		for (star = 1; star <= j; star++) {
 			printf("*");
 		}
-
 		printf("\n");
 	}
 }
