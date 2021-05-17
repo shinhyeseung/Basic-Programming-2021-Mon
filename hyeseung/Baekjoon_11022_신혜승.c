@@ -13,5 +13,6 @@ int main(void)
 		scanf_s("%d %d", &A, &B);
 
 		printf("Case #%d: %d + %d = %d\n", j, A, B, A + B);
+		
 	}
 }
